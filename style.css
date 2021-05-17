@@ -1,0 +1,10 @@
+body {
+    font-size: 15pt;
+}
+h1{
+  color:red;
+  background: yellow;
+}
+p{
+  text-align:center;
+}
